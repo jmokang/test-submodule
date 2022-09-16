@@ -1,0 +1,3 @@
+[submodule "RACE"]
+	path = RACE
+	url = https://github.com/CogAplex/RACE.git
